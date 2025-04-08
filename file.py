@@ -1,4 +1,4 @@
-print("hello world")print("hello world")
+print("hello world")
 a = 10
 b = 5
-print(a-b)
+print(a+a+b+b)
